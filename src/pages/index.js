@@ -215,7 +215,8 @@ const IndexPage = () => (
             <p></p>
             <p></p>
             <p></p>
-            <button><a href="mailto:juliethrallstewart@gmail.com">Contact</a></button>
+            
+            <button><a href="mailto:juliethrallstewart@gmail.com" target="_blank">Contact</a></button>
           </li>
         </ul>
       </div>
