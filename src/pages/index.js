@@ -157,6 +157,7 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>Experience</h2>
+
         </header>
         <ul className="features">
           <li className="icon solid fa-code">
@@ -200,28 +201,21 @@ const IndexPage = () => (
         </header>
         <ul className="actions stacked">
           <li>
-            <div class="contact">
-              <form method="post" action="mailto:juliethrallstewart@gmail.com">
-                    <div class="input">
-                      <input type="text" name="name" id="name" placeholder="Name" />
-                    </div>
-                    <div class="input">
-                      <input type="text" name="email" id="email" placeholder="Email" />
-                    </div>
-                    <div class="input">
-                      <input type="text" name="subject" id="subject" placeholder="Subject" />
-                    </div>
-                    <div class="input message">
-                      <textarea name="message" id="message" placeholder="Message"></textarea>
-                    </div>
-                    <div class="input">
-                      <input type="submit" value="Send"/>
-                      {/* <input type="reset" value="Clear Form" class="alt" /> */}             
-                    </div>
-              </form>
-            </div>
-          </li>
-          <li>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <button type="submit" href="mailto:juliethrallstewart@gmail.com">Contact</button>
           </li>
         </ul>
       </div>
@@ -230,3 +224,26 @@ const IndexPage = () => (
 );
 
 export default IndexPage;
+
+// {/* <div class="contact">
+// <form method="post" action="mailto:juliethrallstewart@gmail.com">
+//       <div class="input">
+//         <input type="text" name="name" id="name" placeholder="Name" />
+//       </div>
+//       <div class="input">
+//         <input type="text" name="email" id="email" placeholder="Email" />
+//       </div>
+//       <div class="input">
+//         <input type="text" name="subject" id="subject" placeholder="Subject" />
+//       </div>
+//       <div class="input message">
+//         <textarea name="message" id="message" placeholder="Message"></textarea>
+//       </div>
+//       <div class="input">
+//         <input type="submit" value="Send Message"/>
+//         {/* <input type="reset" value="Clear Form" class="alt" /> */}             
+//       </div>
+// </form>
+// </div>
+// </li>
+// <li> */}
