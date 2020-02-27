@@ -1725,9 +1725,17 @@
 /* CTA */
 
 	#cta {
+
+		@include vendor('background-image', ('linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../images/IMG_1186.jpg")'));
+		background-attachment: fixed;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		text-align: center;
 		.inner {
 			@include vendor('display', 'flex');
 			max-width: 45em;
+
 
 			header {
 				@include vendor('order', '1');
