@@ -1,6 +1,8 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
+import profile_pic from '../assets/images/profile-pic.jpg';
+
 
 const IndexPage = () => (
   <Layout fullMenu>
@@ -15,7 +17,7 @@ const IndexPage = () => (
           <p>
           
           My professional career began as a 911 Operator. During that career, I sought out additional training on mental health due to the stress of the job on myself and my coworkers, as a result my employer placed me into courses that certified me in supporting individuals in a higher stress job. The result was the development of Crisis and Peer Support Teams requiring hours spent writing the program guidelines, and a leadership role. After our success in our workplace, I was requested to speak at a regional conference presenting to Directors and Supervisors from other agencies. 
-
+          <img id="profile" src={profile_pic} />
           </p>
 
           <p>

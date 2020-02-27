@@ -1782,12 +1782,13 @@
 	#main {
 		> header {
 			@include padding(12em, 0);
-			@include vendor('background-image', ('linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../images/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../images/IMG_1185.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;
 			text-align: center;
+			min-height: 30em;
 
 			h2 {
 				font-size: 1.75em;
@@ -1968,4 +1969,12 @@
 		
 	}
 
-	
+/* About me */
+
+#profile {
+	max-width: 30%;
+	max-height: 30%;
+	display: inline-block;
+	float: left;
+	padding: 1em;
+}
