@@ -6,60 +6,42 @@ const IndexPage = () => (
   <Layout fullMenu>
     <article id="main">
       <header>
-        <h2>Generic Page</h2>
-        <p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>
+        <h2>About Me</h2>
+        <p>I bring a track record of taking on challenges, helping others, learning new technologies, leadership, and experience collaborating on teams.</p>
       </header>
       <section className="wrapper style5">
         <div className="inner">
-          <h3>Lorem ipsum dolor</h3>
+          <h3>Background</h3>
           <p>
-            Morbi mattis mi consectetur tortor elementum, varius pellentesque
-            velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac
-            scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis
-            lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo.
-            Maecenas sagittis felis ac sagittis semper. Curabitur purus leo,
-            tempus sed finibus eget, fringilla quis risus. Maecenas et lorem
-            quis sem varius sagittis et a est. Maecenas iaculis iaculis sem.
-            Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo.
-            Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci
-            fringilla tincidunt. Aliquam eleifend ligula non velit accumsan
-            cursus. Etiam ut gravida sapien.
+          
+          My professional career began as a 911 Operator. During that career, I sought out additional training on mental health due to the stress of the job on myself and my coworkers, as a result my employer placed me into courses that certified me in supporting individuals in a higher stress job. The result was the development of Crisis and Peer Support Teams requiring hours spent writing the program guidelines, and a leadership role. After our success in our workplace, I was requested to speak at a regional conference presenting to Directors and Supervisors from other agencies. 
+
           </p>
 
           <p>
-            Vestibulum ultrices risus velit, sit amet blandit massa auctor sit
-            amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis
-            id vel diam. Praesent sit amet posuere risus, eu faucibus lectus.
-            Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam.
-            Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna,
-            sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere
-            leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse
-            id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor
-            consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec
-            felis elementum varius.
+          Towards the end of my 911 Career, I was privileged to witness software engineering when I had an opportunity to be part of a small team that was developing an app. I stepped into the role of aggregating data and I loved working as an integral part of a small team. But what also stood out to me, was the potential positive impact the app could result in because someone could engineer it. 
+
           </p>
 
-          <hr />
+          {/* <hr /> */}
 
-          <h4>Feugiat aliquam</h4>
+          {/* <h4>Feugiat aliquam</h4> */}
           <p>
-            Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec
-            varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia
-            tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in
-            tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean
-            erat diam, tempus aliquet erat.
+          I left my job at 911 to learn HTML, CSS, and JavaScript. Shortly after I was offered an opportunity to engineer software tests for a large application that would be built using the Django framework.  This felt intimidating, however, the offer was made by someone who believed in me and that I could quickly ramp up and learn the required language skills and responsibilities of the position.  And I did.  Over the next 18 months, I would write the end-to-end tests, unit tests, and take on additional roles including writing technical documents, incorporating translations, implementing email templates, and traveling to facilitate User Acceptance Testing at headquarters.
+
           </p>
 
           <p>
-            Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus
-            rutrum cursus velit, eget condimentum nunc blandit vel. In at
-            pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget,
-            fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra
-            commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim
-            vel, posuere finibus justo. Vivamus facilisis maximus nibh quis
-            pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum.
-            Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.
+          At  this time I knew for sure that I wanted to further develop myself as a software engineer. I completed a 9-month course at Lambda School building and deploying websites using Javascript, Single-page applications using React, databases, and backends using Node/Express and completing the Computer Science curriculum using Python. I even spent two months building a data persisting backend using Postgres and Heroku for the non-profit organization, WellDone.
+
+          </p>
+          <p>
+          If I'm not programming, I'm likely studying nutrition, cooking something delicious, or spending time in nature. If you’d like to know more, feel free to get in touch!
+
+          </p>
+          <p>
+          My specialties include Javascript, React, Node, Express, Python, Selenium WebDriver Python, HTML & CSS.
+
           </p>
         </div>
       </section>

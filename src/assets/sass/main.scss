@@ -1899,12 +1899,12 @@
 
 	body.landing, .main-body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../images/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../images/IMG_1185.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;
-			padding-top: 0;
+			padding-top: 5%;
 		}
 
 		#footer {
@@ -1930,4 +1930,32 @@
 				background-color: darken(_palette(bg), 8);
 			}
 		}
+	}
+
+/* CONTACT */
+
+	.contact {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding: 5%;
+		
+
+		.input {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding: 5%;
+			width: 100%;
+
+		}
+
+		.actions {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			margin-top: 5%;	
+
+		}
+		
 	}
