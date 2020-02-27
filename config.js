@@ -30,11 +30,11 @@ module.exports = {
       name: 'LinkedIn',
       url: 'https://www.linkedin.com/in/thralljulie/',
     },
-    // {
-    //   style: 'solid',
-    //   icon: 'fa-envelope',
-    //   name: 'Email',
-    //   url: 'mailto:juliethrallstewart@gmail.com',
-    // },
+    {
+      style: 'solid',
+      icon: 'fa-envelope',
+      name: 'Email',
+      url: 'mailto:juliethrallstewart@gmail.com',
+    },
   ],
 };
