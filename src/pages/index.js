@@ -82,7 +82,7 @@ const IndexPage = () => (
           <h2>
           <a href="https://well-done-h9vshme77.now.sh/">WellDone</a>
           </h2>
-          <p>WellDone International, a non-profit working to improve global access to clean water by providing reports on well activity that may facilitate technical assistance
+          <p>WellDone International is an existing non-profit working to improve global access to clean water by providing reports on well activity that may facilitate technical assistance
             to malfunctioning wells.</p>
           <p>Full-Stack Software Engineer on a 6 person development team.</p>
           <p>Refactored and built onto an existing frontend utilizing React.</p>
