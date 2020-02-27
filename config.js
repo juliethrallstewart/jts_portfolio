@@ -6,7 +6,7 @@ module.exports = {
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  // manifestIcon: 'src/assets/img/website-icon.png',
+  manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Julie Thrall Stewart',
   subHeading: 'Full-Stack Software Engineer',
@@ -30,11 +30,11 @@ module.exports = {
       name: 'LinkedIn',
       url: 'https://www.linkedin.com/in/thralljulie/',
     },
-    {
-      style: 'solid',
-      icon: 'fa-envelope',
-      name: 'Email',
-      url: 'mailto:juliethrallstewart@gmail.com',
-    },
+    // {
+    //   style: 'solid',
+    //   icon: 'fa-envelope',
+    //   name: 'Email',
+    //   url: 'mailto:juliethrallstewart@gmail.com',
+    // },
   ],
 };
