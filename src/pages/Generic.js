@@ -29,7 +29,7 @@ const IndexPage = () => (
 
           {/* <h4>Feugiat aliquam</h4> */}
           <p>
-          I left my job at 911 to learn HTML, CSS, and JavaScript. Shortly after I was offered an opportunity to engineer software tests for a large application that would be built using the Django framework.  This felt intimidating, however, the offer was made by someone who believed in me and that I could quickly ramp up and learn the required language skills and responsibilities of the position.  And I did.  Over the next 18 months, I would write the end-to-end tests, unit tests, and take on additional roles including writing technical documents, incorporating translations, implementing email templates, and traveling to facilitate User Acceptance Testing at headquarters.
+          I left my job at 911 to learn HTML, CSS, and JavaScript. Shortly after I was offered an opportunity to engineer software tests for a large application that would be built using the Django framework.  I  quickly ramped up learning the required language skills and responsibilities of the position.  Over the next 18 months, I would write the end-to-end tests, unit tests, and take on additional roles including writing technical documents, incorporating translations, implementing email templates, and traveling to facilitate User Acceptance Testing at headquarters.
 
           </p>
 
