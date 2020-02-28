@@ -181,7 +181,7 @@ const IndexPage = () => (
           <li className="icon solid fa-code">
             <h3>Test Driven Development</h3>
             <p>
-              Selenium WebDriver (Python/Django), Selenium IDE
+              Selenium WebDriver (Python/Django), Selenium IDE, Jest
             </p>
           </li>
           <li className="icon solid fa-code" style={{textAlign: 'center'}}>
