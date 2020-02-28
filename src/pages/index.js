@@ -101,7 +101,7 @@ const IndexPage = () => (
           <a href="https://trusting-pare-363667.netlify.com/">Replate</a>
           </h2>
           <p>Replate, working to eliminate food waste by connecting non-profits to excess food in restaurants to disperse to families in need.</p>
-          <p>Frontend Engineer on a 6 person development team.</p>
+          <p>Frontend Engineer collaborating on a 6 person development team. Specifically built Signup, Login, Private Router, and axiosWithAuth components, Token Authentication, implemented Context API state management, and styled.</p>
           <p>React, Context API, Token Authentication, Formik, Yup</p>
           <p><a href="https://github.com/labs17-WellDone/backend">Link to github</a></p>
         </div>
@@ -115,13 +115,13 @@ const IndexPage = () => (
           <a href="https://one-line-a-day-app.netlify.com/">One Line A day</a>
           </h2>
           <p>Daily journaling app.</p>
-          <p>Frontend Engineer on a 5 person development team.</p>
-          <p>React, Token Authentication</p>
+          <p>Frontend Engineer on a 5 person development team, collaborated on design, built and styled Navigation and CreateEntry components.</p>
+          <p>React, Token Authentication, Semantic-UI</p>
 					<p><a href="https://github.com/build-one-line-a-day/one-line-a-day-FE">Link to github</a></p>
 
         </div>
       </section>
-      <section className="spotlight">
+      {/* <section className="spotlight">
         <div className="image">
         <a href="https://boring-liskov-58c04c.netlify.com/"><img src={mud_game} alt="" /></a>
         </div>
@@ -135,7 +135,7 @@ const IndexPage = () => (
 					<p><a href="https://github.com/CS24-Build-Week-1">Link to github</a></p>
 
         </div>
-      </section>
+      </section> */}
       <section className="spotlight">
         <div className="image">
           <a href="https://jetsbubl.netlify.com/"><img src={bubl} alt="" /></a>
